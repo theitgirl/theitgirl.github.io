@@ -1,0 +1,23 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>The IT girl</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Thu, 27 Oct 2016 20:41:14 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Greetings!</title><description>&lt;h1 id="myfirstblogpost"&gt;My first blog post&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Hello there visitor!&lt;/strong&gt;
+&lt;img src="http://localhost:2368/content/images/2016/10/postcover-1--1.jpg" alt="Cover image"&gt;
+This is a blog I'm writing about my journey as a female web developer. &lt;br&gt;
+There are tons of tech blogs, tons of lifestyle blogs, but as of today, I haven't come across a blog about tech as a lifestyle. &lt;br&gt;
+I plan to write&lt;/p&gt;</description><link>http://localhost:2368/greetings/</link><guid isPermaLink="false">8a97252e-a126-48d1-aac3-3165bede6bc0</guid><dc:creator>Anita Szám</dc:creator><pubDate>Wed, 26 Oct 2016 19:04:19 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/10/postcover-1-.jpg" medium="image"/><content:encoded>&lt;h1 id="myfirstblogpost"&gt;My first blog post&lt;/h1&gt;
+
+&lt;img src="http://localhost:2368/content/images/2016/10/postcover-1-.jpg" alt="Greetings!"&gt;&lt;p&gt;&lt;strong&gt;Hello there visitor!&lt;/strong&gt;
+&lt;img src="http://localhost:2368/content/images/2016/10/postcover-1--1.jpg" alt="Greetings!"&gt;
+This is a blog I'm writing about my journey as a female web developer. &lt;br&gt;
+There are tons of tech blogs, tons of lifestyle blogs, but as of today, I haven't come across a blog about tech as a lifestyle. &lt;br&gt;
+I plan to write about my experiences in front-end development and things I've learned, the newest technologies and gadgets, but also stuff that related to being a woman, more than being a person in IT. &lt;br&gt;
+I hope you're going to enjoy my posts, and please come again!  &lt;/p&gt;
+
+&lt;h6 id="xoxo"&gt;xoxo&lt;/h6&gt;
+
+&lt;p&gt;Anita&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p style="font-size:10px;"&gt;image credit:  
+&lt;a href="https://unsplash.com/"&gt;[x]&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
